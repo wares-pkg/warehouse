@@ -1,0 +1,5 @@
+gh:
+  name: bin/gh
+  repo: cli/cli
+  asset: "gh_*_linux_arm64.tar.gz"
+  removetoplevel: true
