@@ -1,4 +1,3 @@
-lazygit:
-  name: lazygit
-  repo: jesseduffield/lazygit
-  asset: "lazygit_*_darwin_arm64.tar.gz"
+name: lazygit
+repo: jesseduffield/lazygit
+asset: "lazygit_*_darwin_arm64.tar.gz"

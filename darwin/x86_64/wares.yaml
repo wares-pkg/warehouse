@@ -1,4 +1,3 @@
-wares:
-  name: wares
-  repo: indium114/wares
-  asset: "wares_Darwin_x86_64"
+name: wares
+repo: indium114/wares
+asset: "wares_Darwin_x86_64"

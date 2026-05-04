@@ -1,4 +1,3 @@
-wares:
-  name: wares
-  repo: indium114/wares
-  asset: "wares_Linux_arm64"
+name: wares
+repo: indium114/wares
+asset: "wares_Linux_arm64"
