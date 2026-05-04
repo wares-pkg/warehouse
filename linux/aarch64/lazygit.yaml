@@ -1,0 +1,4 @@
+lazygit:
+  name: lazygit
+  repo: jesseduffield/lazygit
+  asset: "lazygit_*_linux_arm64.tar.gz"

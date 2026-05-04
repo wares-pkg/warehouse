@@ -1,0 +1,4 @@
+lazygit:
+  name: lazygit
+  repo: jesseduffield/lazygit
+  asset: "lazygit_*_darwin_x86_64.tar.gz"
