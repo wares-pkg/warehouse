@@ -16,3 +16,13 @@ It should be packaged for each of the following platforms and architectures that
 Create a **pull request**, and fill out the template.
 
 Wait for it to be reviewed, and hopefully **merged**!
+
+## Example package configuration
+
+```yaml
+name: "example"               # (path to) binary name
+repo: indium114/wares         # GitHub repo
+asset: "example*Linux*x86_64" # pattern to match asset name against
+removetoplevel: false         # remove top level dir of archive
+multiple: false               # denotes that *all* files must be symlinked
+```
